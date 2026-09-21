@@ -28,7 +28,7 @@
 ## 👋️ 팀원 소개  
 | 이름 | 역할 |  
 | ---- | ---- |  
-| [현민재](https://github.com/AllenJenix) | 객체 탐지 오픈소스 모델 조사 및 벤치마킹 자료 리서치 |  
+| [현민재](https://github.com/AllenJenix) | 데이터 수집을 위한 웹 크롤러 구현 및 오픈소스 모델 벤치마킹 리서치 |  
 | [윤건](https://github.com/yoonkeon) | 관절 추정/포즈 에스티메이션 모델 리서치 및 데이터 수집 지원 |  
 | [유동호](https://github.com/Global-YDH) | 비전 파이프라인(YOLOv5, MediaPipe) 통합 개발 및 비상 제어 로직 구현, 모의 데이터셋 구축 |
 | [신소이](https://github.com/soeeeshin) | 프로젝트 문서화, 산출물 정리 |
